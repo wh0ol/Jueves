@@ -23,4 +23,4 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       witch:
-        folder: dist/Walmart-app  
+        folder: dist/Walmart
