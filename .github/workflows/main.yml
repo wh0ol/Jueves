@@ -22,4 +22,4 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: dist/Walmart # The folder the action should deploy.
+          folder: dist/walmart # The folder the action should deploy.
